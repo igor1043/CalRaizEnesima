@@ -3,7 +3,11 @@
 Programa em C++ que calcula a raiz enésima de um número;
 
 */
-
+/*
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+*/
 #include<iostream>
 #include<cmath>
 
